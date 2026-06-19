@@ -28,6 +28,7 @@ class PendaftaranReguler extends Pendaftaran
         $this->lokasiKampus = $lokasiKampus;
     }
 
+    // OVERRIDING METHOD DARI CLASS Pendaftaran
     public function hitungTotalBiaya()
     {
         return $this->biayaPendaftaranDasar;
