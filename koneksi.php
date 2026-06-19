@@ -3,7 +3,7 @@
 class Database
 {
     private $host = "localhost";
-    private $dbname = "DB_SIMULASI_PBO_KELAS_NabilKundiHartanto";
+    private $dbname = "DB_SIMULASI_PBO_TRPL1A_Nabil_Kundi_Hartanto";
     private $username = "root";
     private $password = "";
 
